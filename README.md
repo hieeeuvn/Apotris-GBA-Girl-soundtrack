@@ -16,8 +16,14 @@ If you have only an Android device
 - Opt1: Borrow a PC
   
 - Opt2: Use Winlator
+# Contributors Wanted / Feedback
+This project is currently in progress. If you are using this voice pack and notice any original male SFX that I forgot to replace, please help me out!
+
+- You can report the missing actions/sounds by opening an **Issue** in this repository.
+
+- Alternatively, let me know the specific game event where the original voice still plays.
 # Progress
-Tested with [Apotris v4.1.0](<https://akouzoukos.com/apotris/downloads>). Other versions are not yet confirmed.
+Tested with [Apotris GBA v4.1.0](<https://akouzoukos.com/apotris/downloads>). Other versions are not yet confirmed.
 # q&a
 - Q: It seems like my music folder is corrupted.
   
@@ -33,5 +39,6 @@ Tested with [Apotris v4.1.0](<https://akouzoukos.com/apotris/downloads>). Other 
 # License
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 # Credits:
-@hieeeuvn - own this repo
-@akouzoukos - author of the game
+@hieeeuvn - own this repo.
+
+@akouzoukos - author of the game.
