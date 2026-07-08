@@ -26,7 +26,7 @@ This project is currently in progress. If you are using this voice pack and noti
 # Progress
 Tested with [Apotris GBA v4.1.0](<https://akouzoukos.com/apotris/downloads>). Other versions are not yet confirmed.
 
-PC/Linux/Switch soon! (maybe it will be very easy to port)
+PC/Linux/Switch soon! (maybe it will be very easy to port, need help with testing)
 # q&a
 - Q: It seems like my music folder is corrupted.
   
