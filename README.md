@@ -25,6 +25,8 @@ This project is currently in progress. If you are using this voice pack and noti
 - Alternatively, let me know the specific game event where the original voice still plays.
 # Progress
 Tested with [Apotris GBA v4.1.0](<https://akouzoukos.com/apotris/downloads>). Other versions are not yet confirmed.
+
+PC/Linux/Switch soon! (maybe it will be very easy to port)
 # q&a
 - Q: It seems like my music folder is corrupted.
   
