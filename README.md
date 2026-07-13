@@ -1,18 +1,20 @@
 ![Banner](Banner.png)
 # Apotris-Girl-Voicepack
-An unofficial voice modification pack for **Apotris** (the GBA homebrew game by **akouzoukos**), replacing female voice sound effects (SFX) for game events.
+An unofficial voice modification pack for **Apotris** (the game by **akouzoukos**), replacing female voice sound effects (SFX) for game events.
 # Before using this:
 - This is a fan-made project. All rights to the original game **Apotris** and its assets belong to **akouzoukos**.
 
 - Voice clips are intended for non-commercial, personal use on retro handheld devices or emulators.
-# Media about:
+# Video:
 (place holder)
-# Setup:
+# Setup (mainly for GBA):
 - 1, Do a backup for your game (with all the Apotris' subfolder)
 
 - 2, Replace the subfolder from the game with the one from [release section](<https://github.com/hieeeuvn/Apotris-Girl-soundtrack/releases>)
 
 - 3, Run the `WINDOWS_build.bat file` (if you are on Windows) or `LINUX_or_MAC_build.sh` file (if you are on Linux or Mac)
+
+- If you setup this for Linux/3DS/Switch, it won't need to do step 2 and 3 (maybe, i don't own one of those to check)
 
 If you have only an Android device
 
